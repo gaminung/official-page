@@ -34,7 +34,7 @@ body {
     opacity: 0.8;
 
     top: 100px;
-    left: 510px;
+    left: 525px;
 }
 .gami-name {
     text-align: center;
@@ -44,7 +44,7 @@ body {
     position: relative;
     display: inline-block;
     top: 500px;
-    left: 450px;
+    left: 460px;
     color:rgb(75, 163, 204);
     font-size: 100px;
     font-weight: 900;

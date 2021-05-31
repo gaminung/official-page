@@ -26,15 +26,16 @@ body {
     left: 0;
 }
 .capa-2 {
-    width: 700px;
-    height: 700px;
+    width: 500px;
+    height: 500px;
     position: absolute;
     background: url(https://media.discordapp.net/attachments/848485928565604362/848701589514616862/discord_logo.png?width=476&height=476);
+    background-size: 350px;
     background-repeat: no-repeat;
     opacity: 0.8;
 
-    top: 70px;
-    left: 510px;
+    top: 160px;
+    left: 615px;
 }
 .discord {
     text-align: center;
@@ -43,11 +44,11 @@ body {
     text-decoration: none;
     position: relative;
     display: inline-block;
-    top: 550px;
-    left: 555px;
-    color:rgb(87, 145, 231);
-    font-size: 80px;
-    font-weight: 900;
+    top: 520px;
+    left: 515px;
+    color:rgb(238, 241, 245);
+    font-size: 60px;
+    font-weight: 10;
 }
 .link {
     text-align: center;
@@ -56,10 +57,10 @@ body {
     text-decoration: none;
     position: relative;
     display: inline-block;
-    top: 600px;
-    left: 140px;
+    top: 570px;
+    left: 75px;
     color:rgb(193, 202, 255);
-    font-size: 30px;
+    font-size: 22px;
     font-weight: 900;
 }
 .link:hover{
@@ -69,10 +70,10 @@ body {
     text-decoration: none;
     position: relative;
     display: inline-block;
-    top: 600px;
-    left: 140px;
+    top: 570px;
+    left: 75px;
     color:rgb(164, 135, 231);
-    font-size: 30px;
+    font-size: 22px;
     font-weight: 900;
 }
 .header {
